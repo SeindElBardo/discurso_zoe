@@ -7,7 +7,7 @@ las asociaciones** organizada en la Universidad Carlos III de Madrid.
 ## Instalación
 
 Para jugar necesitas tener Python 2 o Python 3 instalado. Además, el juego
-necesita la librería `[texture][1]`; instalar esta librería es muy sencillo usando
+necesita la librería ```[Hola](www.google.es)```; instalar esta librería es muy sencillo usando
 `pip`:
 
     pip install texture
